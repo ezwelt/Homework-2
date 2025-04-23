@@ -1,8 +1,8 @@
 // publication klasse
 public class Publication {
 // attribute
-protected String title;
-protected int year;
+private String title;
+private int year;
 // konstruktor
 public Publication(String title, int year) {
 this.title = title;
