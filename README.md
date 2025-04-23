@@ -1,4 +1,3 @@
-# Homework-2-UzK
 # Homework 2 - Object-Oriented Programming (OOP)
 
 ![Java](https://img.shields.io/badge/Java-21-blue?logo=java)
