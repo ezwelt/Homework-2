@@ -24,7 +24,7 @@ Lösungen zu drei Aufgaben der objektorientierten Programmierung in Java. Entwic
   - Indexprüfung in `open(int index)` zur Vermeidung von `IndexOutOfBoundsException`.
 
 ## 🛠 Technische Details
-- **Sprache**: Java 17
+- **Sprache**: Java 21
 - **Struktur**:
   - `Exercise1/`: Lösung zur Textbook-Hierarchie.
   - `Exercise2/`: Codeanalyse und Speicherdiagramm.
@@ -46,6 +46,11 @@ Lösungen zu drei Aufgaben der objektorientierten Programmierung in Java. Entwic
 - **Dozenten**:  
   Adrian Bajraktari ([GitHub](https://github.com/AdrianBajraktari))  
   Dr. Mersedeh Sadeghi ([GitHub](https://github.com/mersedehSa))  
+
+## 🏛 Institution
+**Universität zu Köln**  
+Department Mathematik/Informatik, Abteilung Informatik  
+Software & System Engineering 
 
 ## 📄 Lizenz
 MIT License. Details siehe [LICENSE](LICENSE).
