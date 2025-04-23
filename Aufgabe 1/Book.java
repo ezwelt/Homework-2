@@ -1,7 +1,7 @@
 // book klasse erbt von publication
 public class Book extends Publication {
 // autor
-protected String author;
+private String author;
 // konstruktor
 public Book(String title, int year, String author) {
 super(title, year); // elternklasse aufrufen
