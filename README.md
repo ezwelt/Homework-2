@@ -50,6 +50,3 @@ Lösungen zu drei Aufgaben der objektorientierten Programmierung in Java. Entwic
 **Universität zu Köln**  
 Department Mathematik/Informatik, Abteilung Informatik  
 Software & System Engineering 
-
-## 📄 Lizenz
-MIT License. Details siehe [LICENSE](LICENSE).
