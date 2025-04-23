@@ -1,0 +1,3 @@
+Übung 1: Textbook Info System
+Aufgabenstellung
+Implementierung einer Klassenhierarchie mit folgenden Klassen: - Klasse Publication mit Attributen title (String) und year (int) und einer Methode getInfo() - Klasse Book , die Publication erweitert, das Attribut author hinzufügt und getInfo() überschreibt -Klasse Textbook , die Book erweitert, das Attribut subject hinzufügt und getInfo() überschreibt
