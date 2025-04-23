@@ -1,7 +1,7 @@
 # Homework-2-UzK
 # Homework 2 - Object-Oriented Programming (OOP)
 
-![Java](https://img.shields.io/badge/Java-17-blue?logo=java)
+![Java](https://img.shields.io/badge/Java-21-blue?logo=java)
 
 Lösungen zu drei Aufgaben der objektorientierten Programmierung in Java. Entwickelt im Kurs **Weiterführende Konzepte der Programmierung** (SS 2025) an der *Abteilung Informatik, Software & System Engineering*.
 
