@@ -5,7 +5,7 @@ private String author;
 // konstruktor
 public Book(String title, int year, String author) {
 super(title, year); // elternklasse aufrufen
-author = author; // fehler: parameter statt attribut zugewiesen
+author = author; 
 }
 // überschreibt getInfo
 @Override
