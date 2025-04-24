@@ -10,7 +10,6 @@ this.subject = subject;
 // getInfo überschreiben
 @Override
 public String getInfo() {
-// fehler: kein leerzeichen zwischen author und Subject
 return title + ", published in " + year + ", by " + author + "Subject: " + subject;
 }
 // gibt fachgebiet zurück
